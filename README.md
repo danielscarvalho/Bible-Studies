@@ -92,6 +92,4 @@ Cartas Gerais:
 Profético: 
 - [ ] Apocalipse (22)
   
-Bíblia Online
-Bíblia Online
- +4
+
