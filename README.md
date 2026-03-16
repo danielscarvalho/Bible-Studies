@@ -56,7 +56,7 @@ Profetas Menores
 ## Novo Testamento (27 Livros)
 
 Evangelhos: 
-- [ ] Mateus (28)
+- [x] Mateus (28)
 - [ ] Marcos (16)
 - [ ] Lucas (24)
 - [ ] João (21)
