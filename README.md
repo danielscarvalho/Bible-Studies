@@ -92,4 +92,7 @@ Cartas Gerais:
 Profético: 
 - [ ] Apocalipse (22)
   
+### References
 
+- https://www.bible.com/pt
+- https://bibleproject.com/
